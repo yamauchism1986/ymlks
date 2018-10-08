@@ -1,0 +1,2 @@
+webpackJsonp([0xea74782ba2e],{490:function(n,t){n.exports={data:{contentfulTag:{title:"Fancy",id:"c2ndvQV2yIsooo8eMk6YWim",slug:"fancy",post:null}},pathContext:{slug:"fancy"}}}});
+//# sourceMappingURL=path---tag-fancy-8aac2c229f0b08c815e8.js.map
