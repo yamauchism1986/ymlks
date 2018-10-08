@@ -4,13 +4,9 @@
       "path---tag-cute-8a0e96e9604158d24f66.js",
       "path---tag-cute-8a0e96e9604158d24f66.js.map"
     ],
-    "path---tag-fancy": [
-      "path---tag-fancy-8aac2c229f0b08c815e8.js",
-      "path---tag-fancy-8aac2c229f0b08c815e8.js.map"
-    ],
-    "path---a-walk-in-the-park": [
-      "path---a-walk-in-the-park-ed5efe970eb2adf279eb.js",
-      "path---a-walk-in-the-park-ed5efe970eb2adf279eb.js.map"
+    "path---tag-netlify": [
+      "path---tag-netlify-100cf0c58d698c3fb66e.js",
+      "path---tag-netlify-100cf0c58d698c3fb66e.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -24,6 +20,10 @@
       "component---src-templates-page-js-1b9040f937377f0257a6.js",
       "component---src-templates-page-js-1b9040f937377f0257a6.js.map"
     ],
+    "path---master-thumb-shift-typing": [
+      "path---master-thumb-shift-typing-ba7aa845966c30a7eb38.js",
+      "path---master-thumb-shift-typing-ba7aa845966c30a7eb38.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -36,39 +36,31 @@
       "component---src-layouts-index-js-57a0917b116ed1c60969.js",
       "component---src-layouts-index-js-57a0917b116ed1c60969.js.map"
     ],
+    "path---tag-thumb-shift": [
+      "path---tag-thumb-shift-1596dfb4eda556474334.js",
+      "path---tag-thumb-shift-1596dfb4eda556474334.js.map"
+    ],
     "component---src-templates-tag-js": [
       "component---src-templates-tag-js-5a1cf902fdda6c5af204.js",
       "component---src-templates-tag-js-5a1cf902fdda6c5af204.js.map"
     ],
     "path---index": [
-      "path---index-c97ccaa13bb8e338281b.js",
-      "path---index-c97ccaa13bb8e338281b.js.map"
-    ],
-    "path---2": [
-      "path---2-aec38754d82009f52d1b.js",
-      "path---2-aec38754d82009f52d1b.js.map"
-    ],
-    "path---tag-obedient": [
-      "path---tag-obedient-377193e4541e90215850.js",
-      "path---tag-obedient-377193e4541e90215850.js.map"
+      "path---index-616f602a20a08fd3b66e.js",
+      "path---index-616f602a20a08fd3b66e.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-bbedba2c6a7f12b7efda.js",
       "component---src-pages-404-js-bbedba2c6a7f12b7efda.js.map"
     ],
     "commons": [
-      "commons-38f76b71cd302e01d2f6.js",
+      "commons-4a5e604bf74837adee2b.js",
       "build-js-styles.css",
-      "commons-38f76b71cd302e01d2f6.js.map",
+      "commons-4a5e604bf74837adee2b.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---tag-fun": [
-      "path---tag-fun-c5150459f62240cbfd7f.js",
-      "path---tag-fun-c5150459f62240cbfd7f.js.map"
     ],
     "path---contact": [
       "path---contact-a0e39f21c11f6a62c5ab.js",
@@ -78,23 +70,23 @@
       "component---src-templates-post-js-e13b372967ac4acea6b7.js",
       "component---src-templates-post-js-e13b372967ac4acea6b7.js.map"
     ],
+    "path---tag-contentful": [
+      "path---tag-contentful-05f51cec07612c53a758.js",
+      "path---tag-contentful-05f51cec07612c53a758.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-1ab2e1d10840615e1b08.js",
+      "app-0d1b59203b00c9a37745.js",
       "build-js-styles.css",
-      "app-1ab2e1d10840615e1b08.js.map",
+      "app-0d1b59203b00c9a37745.js.map",
       "build-js-styles.css.map"
     ],
-    "path---tag-play": [
-      "path---tag-play-3ec2b8570fe7fb2f791a.js",
-      "path---tag-play-3ec2b8570fe7fb2f791a.js.map"
-    ],
-    "path---beach-day": [
-      "path---beach-day-151b43f7ba6993e28608.js",
-      "path---beach-day-151b43f7ba6993e28608.js.map"
+    "path---tag-gatsbyjs": [
+      "path---tag-gatsbyjs-47c56b8caee67c11b706.js",
+      "path---tag-gatsbyjs-47c56b8caee67c11b706.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
