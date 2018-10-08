@@ -7,6 +7,8 @@
 <url> <loc>https://gcn.netlify.com/tag/fancy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/tag/cute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gcn.netlify.com/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gcn.netlify.com/a-walk-in-the-park/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/beach-day/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gcn.netlify.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

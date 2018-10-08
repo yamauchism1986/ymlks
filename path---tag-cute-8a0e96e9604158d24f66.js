@@ -1,2 +1,2 @@
-webpackJsonp([8995527822776],{489:function(t,e){t.exports={data:{contentfulTag:{title:"Cute",id:"c1LvjGKhfn2i4AU2cYOmM4C",slug:"cute",post:null}},pathContext:{slug:"cute"}}}});
+webpackJsonp([8995527822776],{493:function(t,e){t.exports={data:{contentfulTag:{title:"Cute",id:"c1LvjGKhfn2i4AU2cYOmM4C",slug:"cute",post:null}},pathContext:{slug:"cute"}}}});
 //# sourceMappingURL=path---tag-cute-8a0e96e9604158d24f66.js.map

@@ -8,6 +8,10 @@
       "path---tag-fancy-8aac2c229f0b08c815e8.js",
       "path---tag-fancy-8aac2c229f0b08c815e8.js.map"
     ],
+    "path---a-walk-in-the-park": [
+      "path---a-walk-in-the-park-ed5efe970eb2adf279eb.js",
+      "path---a-walk-in-the-park-ed5efe970eb2adf279eb.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -37,12 +41,16 @@
       "component---src-templates-tag-js-5a1cf902fdda6c5af204.js.map"
     ],
     "path---index": [
-      "path---index-bb818c12582f8be1880a.js",
-      "path---index-bb818c12582f8be1880a.js.map"
+      "path---index-c97ccaa13bb8e338281b.js",
+      "path---index-c97ccaa13bb8e338281b.js.map"
+    ],
+    "path---2": [
+      "path---2-aec38754d82009f52d1b.js",
+      "path---2-aec38754d82009f52d1b.js.map"
     ],
     "path---tag-obedient": [
-      "path---tag-obedient-634c58e7aa7113c7faeb.js",
-      "path---tag-obedient-634c58e7aa7113c7faeb.js.map"
+      "path---tag-obedient-377193e4541e90215850.js",
+      "path---tag-obedient-377193e4541e90215850.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-bbedba2c6a7f12b7efda.js",
@@ -75,9 +83,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-27d049d222c47897fe30.js",
+      "app-1ab2e1d10840615e1b08.js",
       "build-js-styles.css",
-      "app-27d049d222c47897fe30.js.map",
+      "app-1ab2e1d10840615e1b08.js.map",
       "build-js-styles.css.map"
     ],
     "path---tag-play": [
@@ -85,8 +93,8 @@
       "path---tag-play-3ec2b8570fe7fb2f791a.js.map"
     ],
     "path---beach-day": [
-      "path---beach-day-b0e988285a1930b701a2.js",
-      "path---beach-day-b0e988285a1930b701a2.js.map"
+      "path---beach-day-151b43f7ba6993e28608.js",
+      "path---beach-day-151b43f7ba6993e28608.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
