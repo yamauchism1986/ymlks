@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yamaleaks.fun/sitemap.xml
+Host: https://yamaleaks.fun
